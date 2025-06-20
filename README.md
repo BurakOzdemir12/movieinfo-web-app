@@ -5,7 +5,7 @@ Movie Database with TMDB Restful API.
 
 ### You can look on live demo.
 
-🌐 [Live Demo](https://cineinfo1.netlify.app/)
+🌐 [Live Demo](https://movieinf0.burakozdemir.me/)
 
 Project development still in progress, so some features will be included, auth, movie details etc.
 
